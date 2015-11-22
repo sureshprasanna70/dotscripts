@@ -84,4 +84,3 @@ export PROMPT_EOL_MARK=""
 
 # added by travis gem
 [ -f /home/dexter/.travis/travis.sh ] && source /home/dexter/.travis/travis.sh
-source ~/.tmux.conf
