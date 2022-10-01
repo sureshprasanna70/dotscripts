@@ -68,11 +68,6 @@ alias ga='git add .'
 alias gch='git checkout'
 #rails aliases
 alias bi='bundle install'
-#cd aliases
-alias ca='~/weaponx/ca'
-alias lance='~/weaponx/lance'
-alias wb='~/weaponx/web_files'
-alias r='~/weaponx/ror'
 #rails aliases
 alias rs='rails server'
 alias rc='rails console'
